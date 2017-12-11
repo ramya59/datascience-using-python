@@ -1,0 +1,36 @@
+Python is an easy to learn, powerful programming language.
+It has efficient high-level data structures and a simple but effective approach to object-oriented programming. 
+Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid
+application development in many areas on most platforms.
+This tutorial introduces the reader informally to the basic concepts and features of the Python language and system.
+It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be 
+read off-line as well.
+If you are running new version of Python, then you would need to use print statement with parenthesis as in print ("Hello, Python!");. 
+However in Python version
+Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory.
+Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory.
+Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables.
+Assigning Values to Variables:
+Python variables do not need explicit declaration to reserve memory space. The declaration happens automatically when you assign a 
+value to a variable. The equal sign (=) is used to assign values to variables.
+The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value
+stored in the variable. 
+Operators are the constructs which can manipulate the value of operands.
+Consider the expression 4 + 5 = 9. Here, 4 and 5 are called operands and + is called operator.
+Types of Operators:
+Python language supports the following types of operators.
+
+    *Arithmetic Operators
+    *Comparison (Relational) Operators
+    *Assignment Operators
+    *Logical Operators
+    *Bitwise Operators
+    *Membership Operators
+    *Identity Operators
+Decision making is anticipation of conditions occurring while execution of the program and specifying actions taken according to 
+the conditions.
+Decision structures evaluate multiple expressions which produce TRUE or FALSE as outcome. You need to determine which action to
+take and which statements to execute if outcome is TRUE or FALSE otherwise.
+Python programming language assumes any non-zero and non-null values as TRUE, and if it is either zero or null, then it is assumed 
+as FALSE value.
+python also supports the while loop,for loop,nested loops.
